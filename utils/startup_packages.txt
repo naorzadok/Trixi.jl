@@ -1,0 +1,7 @@
+# One package name per line. Lines starting with # are ignored.
+# Add or remove packages as needed.
+Trixi
+Plots
+OrdinaryDiffEqLowStorageRK
+Trixi2Vtk
+Gmsh
